@@ -8,4 +8,3 @@
 
 - https://www.educative.io/answers/how-to-create-an-environment-in-postman
 
-- https://github.com/Wrennandsix/S4.01SpringBoot-Intro
