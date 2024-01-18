@@ -1,0 +1,3 @@
+enllaços consultats:
+https://www.baeldung.com/spring-request-param
+https://stackoverflow.com/questions/19419234/how-to-validate-spring-mvc-pathvariable-values
