@@ -1,10 +1,17 @@
-  Enllaços consultats:
+- https://github.com/Wrennandsix/S4.02ApiRestN1
 
-- https://www.baeldung.com/spring-request-param
+- https://github.com/Wrennandsix/S4.02ApiRestN2
 
-- https://stackoverflow.com/questions/19419234/how-to-validate-spring-mvc-pathvariable-values
+- https://github.com/Wrennandsix/S4.02ApiRestN3
   
-- https://developers.onelogin.com/api-docs/1/getting-started/postman-collections#:~:text=To%20set%20up%20Postman%20environment%20variables%3A&text=In%20the%20top%20right%20corner,define%20your%20OneLogin%20environment%20variables.&text=Note%3A%20You'll%20need%20to,to%20generate%20the%20access_token%20value.
+  Enllaços consultats:
+  
+- https://javaforjob1.blogspot.com/2021/04/how-can-we-create-auto-generated-field.html
 
-- https://www.educative.io/answers/how-to-create-an-environment-in-postman
+- https://www.youtube.com/watch?v=giG2aNKkoR0
 
+- https://www.youtube.com/watch?v=pER-N4esW58
+
+- https://www.jetbrains.com/help/idea/h2.html
+
+- https://www.youtube.com/watch?v=PSrHcCwvfVQ
