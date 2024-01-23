@@ -1,3 +1,4 @@
+
 package cat.itacademy.barcelonactiva.SanchezMoreno.Marc.s04.t01.n01.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
